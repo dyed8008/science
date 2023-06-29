@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "f16d78c5224c5c4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fab3dee399f4a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8499193855f61a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Control and Cordination/Control And Coordination.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3488edd8045bdd83",
+    "type": "split",
+    "children": [
+      {
+        "id": "72975738b6356d72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef660476f4e95f51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Thermodecomposition",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0561971f48299b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "099f0a1de12ca349",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 466.5110321044922
+  },
+  "right": {
+    "id": "1c8cb197649b1f2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a8c3c92c06a4542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6419ca214a076c2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biology/Control and Cordination/Control And Coordination.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1c71de0e532fba3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Biology/Control and Cordination/Control And Coordination.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc848b8eb2ea39d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60cf48c1d5223f9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Biology/Control and Cordination/Control And Coordination.md"
+              }
+            }
+          },
+          {
+            "id": "b1338ef6c645e3f6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "8499193855f61a08",
+  "lastOpenFiles": [
+    "Science-notes/docs/Index.md",
+    "Science-notes/docs/Physics/Physics.md",
+    "Science-notes/docs/Physics",
+    "Science-notes/docs/Chemistry/Chemistry.md",
+    "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Reactivity Series.svg",
+    "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Important Questions.md",
+    "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Types Of Chemical Reactions.md",
+    "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Characteristics Of A Chemical Equation.md",
+    "Science-notes/docs/Chemistry/Chemical Reactions and Equations/How To Make A Equation More Informative.md",
+    "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Chemical Equation.md",
+    "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Chemical reactions and equations.md",
+    "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Important Reactions.md",
+    "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Balancing A Chemical Equation.md",
+    "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Rancidity and Corrosion.md",
+    "Science-notes/docs/Chemistry/Chemical Reactions and Equations",
+    "Science-notes/docs/Chemistry",
+    "Science-notes/docs/Biology/Control and Cordination/Important Questions.md",
+    "Science-notes/docs/Biology/Control and Cordination/Control And Coordination.md",
+    "Science-notes/docs/Biology/Control and Cordination",
+    "Science-notes/docs/Biology/Biology.md",
+    "Science-notes/docs/Biology",
+    "Science-notes/mkdocs.yml",
+    "Science-notes/docs/javascripts/mathjax.js",
+    "Science-notes/docs/Topic 1/Note 2.md",
+    "Science-notes/docs/Topic 1/Note 1.md",
+    "Science-notes/docs/Features/Mermaid Diagrams.md",
+    "Science-notes/docs/Features/Text Formatting.md",
+    "Science-notes/docs/Features/LaTeX Math Support.md",
+    "Science-notes/docs/javascripts",
+    "Science-notes/docs/index.md",
+    "Science-notes/docs/Topic 1",
+    "Science-notes/docs/Features",
+    "Science-notes/README.md",
+    "Science-notes/2021-11-22-22-54-02.png",
+    "Science-notes/2021-11-22-22-52-49.png",
+    "Science-notes/2021-11-22-22-49-26.png",
+    "Biology/Control and Cordination/Important Questions.md",
+    "Chemistry/Chemical Reactions and Equations/Chemical reactions and equations.md",
+    "Biology/Control and Cordination/Control And Coordination.md",
+    "Index.md",
+    "Chemistry/Chemical Reactions and Equations/Reactivity Series.svg",
+    "Chemistry/Chemical Reactions and Equations/Reaction series.svg",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
