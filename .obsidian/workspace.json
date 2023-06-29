@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Control and Cordination/Control And Coordination.md",
+                "file": "Biology/Control and Cordination/Important Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "230517f2477cf28a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Control and Cordination/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Control and Cordination/Control And Coordination.md",
+                "file": "Biology/Control and Cordination/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Control and Cordination/Control And Coordination.md",
+                "file": "Biology/Control and Cordination/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Control and Cordination/Control And Coordination.md"
+                "file": "Biology/Control and Cordination/Untitled.md"
               }
             }
           },
@@ -156,8 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8499193855f61a08",
+  "active": "230517f2477cf28a",
   "lastOpenFiles": [
+    "Biology/Control and Cordination/Important Questions.md",
+    "Biology/Control and Cordination/Untitled.md",
+    "Biology/Control and Cordination/Control And Coordination.md",
     "Science-notes/docs/Index.md",
     "Science-notes/docs/Physics/Physics.md",
     "Science-notes/docs/Physics",
@@ -194,10 +210,7 @@
     "Science-notes/2021-11-22-22-54-02.png",
     "Science-notes/2021-11-22-22-52-49.png",
     "Science-notes/2021-11-22-22-49-26.png",
-    "Biology/Control and Cordination/Important Questions.md",
     "Chemistry/Chemical Reactions and Equations/Chemical reactions and equations.md",
-    "Biology/Control and Cordination/Control And Coordination.md",
-    "Index.md",
     "Chemistry/Chemical Reactions and Equations/Reactivity Series.svg",
     "Chemistry/Chemical Reactions and Equations/Reaction series.svg",
     "Untitled 1.canvas",
