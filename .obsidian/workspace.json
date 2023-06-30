@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4725a66ac2acf4cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Control and Cordination/Nervous system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Control and Cordination/Control And Coordination.md",
+                "file": "Biology/Control and Cordination/Nervous system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Control and Cordination/Control And Coordination.md",
+                "file": "Biology/Control and Cordination/Nervous system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Control and Cordination/Control And Coordination.md"
+                "file": "Biology/Control and Cordination/Nervous system.md"
               }
             }
           },
@@ -137,8 +150,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "4513d3761cedff7b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -156,12 +178,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8499193855f61a08",
+  "active": "4725a66ac2acf4cb",
   "lastOpenFiles": [
+    "Biology/Control and Cordination/Control And Coordination.md",
+    "Biology/Control and Cordination/Nervous system.md",
     "Biology/Control and Cordination/Important Questions.md",
     "Untitled Diagram.svg",
-    "Biology/Control and Cordination/Control And Coordination.md",
-    "Biology/Control and Cordination/Untitled.md",
     "Science-notes/docs/Index.md",
     "Science-notes/docs/Physics/Physics.md",
     "Science-notes/docs/Physics",
