@@ -1,14 +1,14 @@
 	Nutrition is the process by which an organism obtains their food.
 	 	
  Types of nutrition
- 1) Autotrophic Nutrition 
+ 1)<mark class="hltr-blue"> Autotrophic Nutrition </mark>
 
- 		Nutrition in which an organism produces its own food from simple substances and in not dependent on other organism for food is called autotrophic nutrition.
+	 		Nutrition in which an organism produces its own food from simple substances and in not dependent on other organism for food is called autotrophic nutrition.
  	Examples
      1) Blue-green algae
      2) Green plants
   
-2) Heterotrophic Nutrition
+2) <mark class="hltr-pink">Heterotrophic Nutrition</mark>
 
 		Nutrition in which an animal depend on other organism for food is called heterotrophic nutrition.
 		
@@ -44,3 +44,4 @@
 			2) Leeches
 
 [[Nutrition In Green Plants]]
+[[Nutrition In Humans]]

@@ -4,19 +4,14 @@ graph LR
 
 %% Nodes
 A[Life Processes]
-B[Nutrition]
-C[Transportation]
-D[Respiration]
-E[Excretion]
-
 %% Node Connections
-A --> B
-A --> C
-A --> D
-A --> E
-%% Node Link
-click B href "obsidian://vault/Science/Biology/Life Processes/Nutrition.md"
-click C href "obsidian://vault/Science/Biology/Life Processes/Transportation.md"
-click D href "obsidian://vault/Science/Biology/Life Processes/Respiration.md"
-click E href "obsidian://vault/Science/Biology/Life Processes/Excretion.md"
+A --> Nutrition[Nutrition]
+A --> Transportation[Transportation]
+A --> Excretion[Excretion]
+A --> Respiration[Respiration]
+%% Classes
+class Nutrition internal-link;
+class Transportation internal-link;
+class Excretion internal-links;
+class Respiration internal-links;
 ```

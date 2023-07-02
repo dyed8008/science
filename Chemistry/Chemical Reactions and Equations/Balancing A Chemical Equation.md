@@ -1,4 +1,4 @@
-### <mark class="hltr-pink">Why do we need to balance chemical equations?</mark>
+### Why do we need to balance chemical equations?
 	We need to balance chemical equations to obey the law of conseration of mass. 
 
 ### Balancing a chemical equation

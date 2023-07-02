@@ -1,14 +1,16 @@
 {
-  "highlighterStyle": "rounded",
-  "highlighterMethods": "css-classes",
+  "highlighterStyle": "floating",
+  "highlighterMethods": "inline-styles",
   "highlighters": {
-    "Pink": "#912078B5",
-    "Blue": "#352AC9B5",
-    "Orange": "#E57A24B5"
+    "Pink": "#cf96c0",
+    "Blue": "#799ed1",
+    "Green": "#75b178",
+    "Purple": "#a68bd1"
   },
   "highlighterOrder": [
     "Pink",
     "Blue",
-    "Orange"
+    "Green",
+    "Purple"
   ]
 }
