@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "4fab3dee399f4a9b",
+        "id": "1d25c7030819c425",
         "type": "tabs",
         "children": [
           {
-            "id": "8499193855f61a08",
+            "id": "ec2b413cf4d49dee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Control and Cordination/Control And Coordination.md",
-                "mode": "source",
+                "file": "Biology/Life Processes/Nutrition.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "4725a66ac2acf4cb",
+            "id": "9ae81773a3846657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Control and Cordination/Nervous system.md",
-                "mode": "source",
+                "file": "Biology/Life Processes/Nutrition.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,15 @@
             }
           },
           {
-            "id": "d75978f3e7974706",
+            "id": "24b042d8bb485210",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c8198ea1c2ca385",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,21 +76,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "24b042d8bb485210",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 466.5110321044922
+    "width": 263.5124969482422
   },
   "right": {
     "id": "1c8cb197649b1f2c",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Control and Cordination/Nervous system.md",
+                "file": "Biology/Life Processes/Nutrition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Control and Cordination/Nervous system.md",
+                "file": "Biology/Life Processes/Nutrition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Control and Cordination/Nervous system.md"
+                "file": "Biology/Life Processes/Nutrition.md"
               }
             }
           },
@@ -178,12 +177,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4725a66ac2acf4cb",
+  "active": "ec2b413cf4d49dee",
   "lastOpenFiles": [
+    "Biology/Life Processes/Life Processes..md",
+    "Biology/Biology.md",
+    "Biology/Life Processes/Life Processes diagram.canvas",
+    "Biology/Life Processes/Excretion.md",
+    "Biology/Life Processes/Nutrition.md",
+    "Biology/Life Processes/Life processes.md",
+    "Chemistry/Chemical Reactions and Equations/Chemical reactions and equations.md",
+    "Biology/Life Processes/Nutrition In Green Plants.md",
+    "Untitled 1.canvas",
+    "Biology/Life Processes/Respiration.md",
+    "Biology/Life Processes/Untitled 1.md",
+    "Biology/Life Processes/Transportation.md",
+    "Untitled Diagram 1.svg",
+    "Untitled Diagram.svg",
     "Biology/Control and Cordination/Control And Coordination.md",
+    "Biology/Life Processes",
+    "Biology/Control and Cordination/Control and coordination.md",
     "Biology/Control and Cordination/Nervous system.md",
     "Biology/Control and Cordination/Important Questions.md",
-    "Untitled Diagram.svg",
     "Science-notes/docs/Index.md",
     "Science-notes/docs/Physics/Physics.md",
     "Science-notes/docs/Physics",
@@ -197,32 +211,18 @@
     "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Chemical reactions and equations.md",
     "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Important Reactions.md",
     "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Balancing A Chemical Equation.md",
-    "Science-notes/docs/Chemistry/Chemical Reactions and Equations/Rancidity and Corrosion.md",
     "Science-notes/docs/Chemistry/Chemical Reactions and Equations",
     "Science-notes/docs/Chemistry",
-    "Science-notes/docs/Biology/Control and Cordination/Important Questions.md",
-    "Science-notes/docs/Biology/Control and Cordination/Control And Coordination.md",
     "Science-notes/docs/Biology/Control and Cordination",
-    "Science-notes/docs/Biology/Biology.md",
     "Science-notes/docs/Biology",
     "Science-notes/mkdocs.yml",
     "Science-notes/docs/javascripts/mathjax.js",
-    "Science-notes/docs/Topic 1/Note 2.md",
-    "Science-notes/docs/Topic 1/Note 1.md",
-    "Science-notes/docs/Features/Mermaid Diagrams.md",
-    "Science-notes/docs/Features/Text Formatting.md",
-    "Science-notes/docs/Features/LaTeX Math Support.md",
     "Science-notes/docs/javascripts",
-    "Science-notes/docs/index.md",
     "Science-notes/docs/Topic 1",
-    "Science-notes/docs/Features",
-    "Science-notes/README.md",
     "Science-notes/2021-11-22-22-54-02.png",
     "Science-notes/2021-11-22-22-52-49.png",
     "Science-notes/2021-11-22-22-49-26.png",
     "Chemistry/Chemical Reactions and Equations/Reactivity Series.svg",
-    "Chemistry/Chemical Reactions and Equations/Reaction series.svg",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Chemistry/Chemical Reactions and Equations/Reaction series.svg"
   ]
 }
