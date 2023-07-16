@@ -5,4 +5,4 @@
 
      **$\ce{H2O ->[Electiricity] H2 + O2 }$**
 3) #### By indicating change in temperature
-     **$\ce{CH4 + 2O2 -> CO2 + 2H2O + heat }$
+     **$\ce{CH4 + 2O2 -> CO2 + 2H2O + heat }$**
